@@ -1,0 +1,9 @@
+[submodule "quickhire-config-server"]
+	path = quickhire-config-server
+	url = https://github.com/tharindu765/quickhire-config-server.git
+[submodule "quickhire-eureka-server"]
+	path = quickhire-eureka-server
+	url = https://github.com/tharindu765/quickhire-eureka-server.git
+[submodule "quickhire-api-gateway"]
+	path = quickhire-api-gateway
+	url = https://github.com/tharindu765/quickhire-api-gateway.git
