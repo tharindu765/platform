@@ -9,9 +9,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>quickhire-api-gateway</module>
         <module>quickhire-config-server</module>
         <module>quickhire-eureka-server</module>
+        <module>quickhire-api-gateway</module>
     </modules>
 
 </project>
